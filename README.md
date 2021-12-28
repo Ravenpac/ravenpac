@@ -3,7 +3,7 @@
 - 🦊 Looking forward to be a front-end developer
 - 🔥 Studying JavaScript and React
 - 🐯 Pronouns: he / she / they  
-##
+
 <div align="center">
   <a href="https://github.com/Ravenpac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravenpac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
