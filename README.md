@@ -1,7 +1,7 @@
 ## Hello! I'm Raven, also known as Pietra!
 
-- 🦊 Looking forward to be a front-end developer
-- 🔥 Skills: HTML, CSS, JavaScript (ES6+), ReactJS, TypeScript, Sass 
+- 🦊 Learning React Native
+- 🔥 Skills: ReactJS, SASS, TypeScript, Styled Components 
 - 🐯 Pronouns: he / she / they  
 
 <div align="center">
