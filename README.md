@@ -3,8 +3,8 @@
 </div>
   
 ## Hello! I'm Raven, also known as Pietra!
-- 🦊 Learning React Native
-- 🔥 Skills: ReactJS, SASS, TypeScript, Styled Components 
+- 💼 Currently working as front-end developer on Mestres da Web
+- 🔥 Skills: ReactJS, HTML, CSS, TypeScript, Styled Components 
 - 🐯 Pronouns: he / she / they
 
 <div align="center">
