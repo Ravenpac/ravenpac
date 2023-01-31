@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="GIF" src="https://i.pinimg.com/originals/7f/bb/4a/7fbb4af00daf2da3a7ecbfbf5ff3bd3f.gif" />
+  <img height="500em" alt="GIF" src="https://i.pinimg.com/originals/7f/bb/4a/7fbb4af00daf2da3a7ecbfbf5ff3bd3f.gif" />
 </div>
   
 ## Hello! I'm Raven, also known as Pietra!
