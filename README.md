@@ -4,7 +4,7 @@
   
 ## Hello! I'm Raven, also known as Pietra!
 - 💼 Currently working as front-end developer on Mestres da Web
-- 🔥 Skills: ReactJS, HTML, CSS, TypeScript, Styled Components 
+- 🔥 Skills: ReactJS, NextJS, HTML, CSS, TypeScript, Styled Components, etc 
 - 🐯 Pronouns: he / she / they
 
 <div align="center">
