@@ -4,7 +4,7 @@
   
 ## Hello! I'm Raven, also known as Pietra!
 - 💼 Currently working as front-end developer on Mestres da Web
-- 🔥 Skills: ReactJS, NextJS, HTML, CSS, TypeScript, Styled Components, etc 
+- 🔥 Skills: NextJS, TypeScript, Styled Components, React Query, etc 
 - 🐯 Pronouns: he / she / they
 
 <div align="center">
@@ -26,6 +26,4 @@
   <a href="https://instagram.com/raven_pac"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ravennapac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ravenpac/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>    
- 
-![Snake animation](https://github.com/Ravenpac/Ravenpac/blob/output/github-contribution-grid-snake.svg)
+</div>
