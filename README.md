@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500em" alt="GIF" src="https://i.pinimg.com/originals/7f/bb/4a/7fbb4af00daf2da3a7ecbfbf5ff3bd3f.gif" />
+  <img width="100%" alt="GIF" src="https://i.pinimg.com/originals/7f/bb/4a/7fbb4af00daf2da3a7ecbfbf5ff3bd3f.gif" />
 </div>
   
 ## Hello! I'm Raven, also known as Pietra!
@@ -10,9 +10,9 @@
   <a href="https://github.com/Ravenpac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravenpac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravenpac&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravenpac&theme=dracula"/>
 </div >
-  <div style="display: inline_block" align="center"><br>
+    
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="JS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ReactJS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
