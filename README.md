@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500em" alt="profile picture" src="https://i.imgur.com/nuylfCU.jpeg" />
+  <img height="500em" alt="profile picture" src="https://i.imgur.com/XLmNHT0.jpeg" />
 </div>
   
 ## Hello! I'm Raven, also known as Pietra!
