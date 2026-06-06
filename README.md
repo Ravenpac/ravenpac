@@ -22,7 +22,7 @@
 <div align="center">
  
 
-## Tech Stack
+## Tech Stack:
 
 | Backend | Tools & Cloud | Frontend |
 | :---: | :---: | :---: |
