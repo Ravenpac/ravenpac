@@ -1,34 +1,59 @@
 <div align="center">
-  <img height="500em" alt="profile picture" src="https://i.imgur.com/XLmNHT0.jpeg" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&animation=blinking&color=f294a4" />
 </div>
-  
-## Hello! I'm Raven, also known as Pietra!
-- 💼 Currently working as front-end developer on Mestres da Web
-- 🔥 Skills: NextJS, TypeScript, Styled Components, Tailwind, React Query, etc 
-    
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="JS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ReactJS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="NextJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="ViteJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
-  <img align="center" alt="TS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Tailwind" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">  
-  <img align="center" alt="NodeJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Netlify" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg">
-  <img align="center" alt="Vercel" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg">
-  <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="NPM" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg">
-  <img align="center" alt="vscode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  <img align="center" alt="XD" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg"> 
-</div>
-  
-  ##
-  
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F7F6F7&width=435&lines=Hey%2C+my+name+is+Raven+(or+Pietra)+!)](https://git.io/typing-svg)
+
+
 <div align="center">
-  <a href="https://instagram.com/raven_pac"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ravennapac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ravenpac/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <img height="200" src="https://github.com/Ravenpac/ravenpac/blob/main/miku-hanged.png"  />
+
+  Software engineer and writer in my spare time, addicted to League of Legends and coffee. 
 </div>
+
+
+<div align = "center">
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:ravennapac@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/ravenpac/)
+
+
+<div align="center">
+ 
+
+## Tech Stack
+
+| Backend | Tools & Cloud | Frontend |
+| :---: | :---: | :---: |
+| [![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,postgresql)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,postman,figma,gcp)](https://skillicons.dev) | [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)](https://skillicons.dev) |
+
+</div>
+
+
+---
+
+
+
+## My Projects:
+
+</div>
+
+| Project | Value Proposition | Tech Stack |
+| :--- | :--- | :--- |
+| **[AgriFábricas](https://agrifabricas.com.br)** | A marketplace for agricultural machinery parts, helping customers and suppliers connect, compare, and source replacement parts more efficiently.
+. | `TypeScript`, `Next.js`, `React`, `Tailwind CSS`, `React Query`, `REST APIs`, `Vercel` |
+| **[RESGATEI](https://resgatei.com.br)** | A real estate platform that streamlines property searches by connecting buyers, agents, and agencies with real-time listing availability. | `TypeScript`, `Next.js`, `React`, `Styled Components`, `React Query`, `REST APIs`, `Vercel` |
+| **[Hbaw](https://hbaw.com.br)** | A health data management platform that centralizes patient information, enabling healthcare professionals to make informed decisions and collaborate more effectively. | `TypeScript`, `React`, `Vite`, `Styled Components`, `REST APIs`, `Netlify` |
+| **[MetalSystem](https://www.metalsystem-pecas.com.br)** | An automotive parts company for which an e-commerce platform and digital catalog were developed to enhance its digital presence and customer experience. | `TypeScript`, `React`, `Tauri`, `Styled Components`, `REST APIs` | 
+
+<div align= "center">
+
+#
+
+<div align = "center">
+
+<img alt="cat-sticker" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="200">&nbsp;
+
+  
+###
