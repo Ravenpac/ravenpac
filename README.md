@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img height="200" src="https://github.com/Ravenpac/ravenpac/blob/main/miku-hanged.png"  />
+  <img height="240" src="https://github.com/Ravenpac/ravenpac/blob/main/miku-hanged.png" alt="hatsune-miku"  />
 
   Software engineer and writer in my spare time, addicted to League of Legends and coffee. 
 </div>
@@ -41,8 +41,7 @@
 
 | Project | Value Proposition | Tech Stack |
 | :--- | :--- | :--- |
-| **[AgriFábricas](https://agrifabricas.com.br)** | A marketplace for agricultural machinery parts, helping customers and suppliers connect, compare, and source replacement parts more efficiently.
-. | `TypeScript`, `Next.js`, `React`, `Tailwind CSS`, `React Query`, `REST APIs`, `Vercel` |
+| **[AgriFábricas](https://agrifabricas.com.br)** | A marketplace for agricultural machinery parts, helping customers and suppliers connect, compare, and source replacement parts more efficiently. | `TypeScript`, `Next.js`, `React`, `Tailwind CSS`, `React Query`, `REST APIs`, `Vercel` |
 | **[RESGATEI](https://resgatei.com.br)** | A real estate platform that streamlines property searches by connecting buyers, agents, and agencies with real-time listing availability. | `TypeScript`, `Next.js`, `React`, `Styled Components`, `React Query`, `REST APIs`, `Vercel` |
 | **[Hbaw](https://hbaw.com.br)** | A health data management platform that centralizes patient information, enabling healthcare professionals to make informed decisions and collaborate more effectively. | `TypeScript`, `React`, `Vite`, `Styled Components`, `REST APIs`, `Netlify` |
 | **[MetalSystem](https://www.metalsystem-pecas.com.br)** | An automotive parts company for which an e-commerce platform and digital catalog were developed to enhance its digital presence and customer experience. | `TypeScript`, `React`, `Tauri`, `Styled Components`, `REST APIs` | 
@@ -53,7 +52,7 @@
 
 <div align = "center">
 
-<img alt="cat-sticker" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="200">&nbsp;
+<img width="180" src="https://github.com/Ravenpac/ravenpac/blob/main/sylveon.png"  />
 
   
 ###
