@@ -26,7 +26,7 @@
 
 | Backend | Tools & Cloud | Frontend |
 | :---: | :---: | :---: |
-| [![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,postgresql,mysql,py,django)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,bitbucket,aws,figma)](https://skillicons.dev) | [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,sass)](https://skillicons.dev) |
+| [![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,postgresql,mysql,py,django)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,bitbucket,aws,figma)](https://skillicons.dev) | [![Frontend](https://skillicons.dev/icons?i=js,ts,react,vite,nextjs,tailwind,sass)](https://skillicons.dev) |
 
 </div>
 
